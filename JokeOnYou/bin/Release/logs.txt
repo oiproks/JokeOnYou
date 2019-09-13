@@ -1,0 +1,9 @@
+08/02/2019 - 09:31:46	Open
+			 09:31:46	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+			 09:31:46	Closed
+17/07/2019 - 10:18:31	Open
+			 10:18:31	BONUS ROUND! Going crazy in 12 seconds.
+			 10:18:44	Moving in 11 seconds. 10 steps as far as 52px.
+			 10:18:55	Moving in 5 seconds. 11 steps as far as 79px.
+			 10:19:00	Moving in 37 seconds. 16 steps as far as 53px.
+			 10:19:09	Closed

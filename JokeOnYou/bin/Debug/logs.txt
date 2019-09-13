@@ -1,0 +1,38 @@
+08/02/2019 - 09:32:04	Open
+			 09:32:04	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+			 09:32:04	Closed
+08/02/2019 - 09:32:53	Open
+			 09:32:53	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+			 09:32:53	Closed
+08/02/2019 - 09:34:23	Open
+			 09:34:23	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+			 09:34:23	Closed
+08/02/2019 - 09:34:38	Open
+08/02/2019 - 09:35:36	Open
+			 09:35:36	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 09:36:17	Open
+			 09:36:17	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:13:38	Open
+			 11:13:38	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:16:02	Open
+			 11:16:02	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:16:51	Open
+			 11:16:51	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:18:24	Open
+			 11:18:24	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:19:03	Open
+			 11:19:03	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:21:14	Open
+			 11:21:14	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:21:55	Open
+			 11:21:55	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:25:41	Open
+			 11:25:41	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:42:21	Open
+			 11:42:21	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 11:43:03	Open
+			 11:43:03	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 12:06:32	Open
+			 12:06:32	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.
+08/02/2019 - 12:18:17	Open
+			 12:18:17	The file 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\JOY.exe' already exists.

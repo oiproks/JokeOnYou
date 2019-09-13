@@ -1,0 +1,9 @@
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\bin\Debug\JOY.exe.config
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\bin\Debug\JOY.exe
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\bin\Debug\JOY.pdb
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JokeOnYou.Joy.resources
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JOY.Properties.Resources.resources
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JOY.csproj.GenerateResource.cache
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JOY.csproj.CoreCompileInputs.cache
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JOY.exe
+C:\Users\Infovision\Desktop\Softwares\Personal\JokeOnYou\JokeOnYou\obj\Debug\JOY.pdb
